@@ -28,7 +28,7 @@ To get started with Sniper Calls Bot, follow these steps:
 1. Clone the repository:
     ```sh
     git clone https://github.com/Alexander-Mitchell-Sol/Sniper-Calls-Bot.git
-    cd Sniper-Calls-Bot-main
+    cd Sniper-Calls-Bot
     ```
  
 2. Install the required dependencies:
